@@ -18,10 +18,6 @@ The summary page updates once daily for performance reasons, since it pulls data
 
 ---
 
-[Question]
 
-[Answer]
-
----
 
 

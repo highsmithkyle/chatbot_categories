@@ -51,21 +51,7 @@ List visibility is managed at the group level. Only users who are explicitly gra
 
 ---
 
-[Question]
-What do I do when I get a duplicate or conflicting subscriber message after a sync?
 
-[Answer]
-These messages usually appear when your data upload (often triggered by a nightly sync) contains records that conflict with existing users in the system — typically due to duplicate email addresses or mismatched source IDs. 
-
-To investigate: 
-
-1) Go to Subs → Upload/Update. 
-2) Find the nightly sync entry (e.g., pros-user-data-feed-YYYY-MM-DD.txt). 3) Click the messages icon to open the detail view. 
-4) Look for records listed under “subscriber exists in system with different email or source ID.” 
-5) Export that list if needed and compare the conflicting records to your source data. 
-6) If the data matches, no action is needed. If it doesn’t, correct the email or ID in your source system. These errors often happen due to different systems sending in slightly different formats (e.g., full vs. short email addresses). Reviewing these helps ensure a clean subscriber list.
-
----
 
 [Question]
 How can I check which subscribers are missing a value like first name?
@@ -90,6 +76,7 @@ You may view information about your upload by going to Subs > Upload Update and 
 [Answer]
 
 ---
+
 
 [Question]
 

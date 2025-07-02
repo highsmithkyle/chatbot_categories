@@ -1,0 +1,85 @@
+[Question]
+
+
+[Answer]
+
+---
+
+[Question]
+
+[Question]
+What are the different ways to do A/B testing in Proze?
+
+[Answer]
+You can use two types of A/B testing in Proze: (1) *Broadcast-Level A/B Testing*: During the broadcast setup, enable "Run A/B Automated Test" to test subject line, from name, or template. Use either a percentage split (e.g., 50/50) or the "A/B Winner" method, which tests 10% + 10% and sends the better-performing version to the remaining 80% after a delay. (2) **Content-Level A/B Split Testing**: In the email builder, add two content blocks and assign one as Split A and the other as Split B using the targeting icon. Each version will be sent to 50% of recipients. You can compare results using the reporting tools after the broadcast is sent.
+
+---
+
+[Question]
+How does spreadsheet broadcasting work, and how can I retain a copy of each personalized message for record-keeping?
+
+[Answer]
+
+---
+
+[Question]
+How can I resend an updated email to people who already opened the original?
+
+[Answer]
+To send a correction or updated message to recipients who opened a previous email, start by opening the report for that original email. Locate the section for unique openers and use the “Create Custom List” icon. Give the new list a name that will help you identify it later — for example, something indicating it contains openers of the original message. Once the custom list is created, return to your email builder and open the message you want to resend. Update the subject line to reflect that it’s a correction or updated version, so recipients recognize it’s related to a previous email. During the send process, when selecting your recipients, choose the custom list you just created — the one containing people who already opened the first version. Continue through the send steps as usual: review your setup, proceed to the scheduling page, and choose when to send. This approach ensures only those who opened the original email will receive the updated version.
+
+---
+
+[Question]
+What’s the best way to resend an email to people who didn’t open the first one?
+
+[Answer]
+Use the Resend to Inactives button in the broadcast tab. It's recommended to change the subject line when resending, since the original may have been overlooked or filtered by the recipient’s mail client.
+
+---
+
+[Question]
+How do I suppress a one-time list of email addresses from a broadcast?
+
+[Answer]
+You can upload the suppression list as a static list, then exclude it by placing it in the red exclusion box on the broadcast criteria page. This is the best approach, even for large lists (e.g., 200K+ emails).
+
+---
+
+[Question]
+How do I schedule or send an email immediately vs. recurring weekly?
+
+[Answer]
+To send immediately, click “Start Now” during the final step of scheduling. To schedule a one-time send for later today, select a specific time and click “Schedule.” Only use the recurring section at the bottom if you want to automatically send the email on a regular pattern like every Tuesday.
+
+---
+
+
+[Question]
+Why did a list I used in a broadcast contain more people than expected, and how can I replicate that?
+
+[Answer]
+If a broadcast list includes more people than expected, it’s likely someone did a spreadsheet upload rather than a copy-paste. Uploading a spreadsheet adds new people to the list, whereas copy-pasting only works if those contacts are already in the system. To replicate this, go to the "Upload/Update" section, select your file, and run the upload. This will populate the list with any new contacts from your spreadsheet.
+
+---
+
+[Question]
+
+
+[Answer]
+
+---
+
+[Question]
+
+
+[Answer]
+
+---
+
+[Question]
+
+
+[Answer]
+
+---

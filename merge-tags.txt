@@ -1,0 +1,6 @@
+[Question]
+Can you send me information on how to create a template with dynamic information?
+
+[Answer]
+Yes. If you have dynamic content in a tab-delimited file, you can use dynamic tags to personalize your template. See this step-by-step training video: https://m1.proze.io/site/proze-training/posts/dynamic-tags
+---

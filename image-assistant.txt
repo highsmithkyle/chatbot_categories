@@ -1,0 +1,29 @@
+[Question]
+Should I use PNG or JPG images in my emails?
+
+[Answer]
+Use PNG if you need a transparent background. Use JPG if file size is more important. Both formats are supported and perform well under normal use cases.
+---
+
+[Question]
+What image file types are best for email, and are APNGs supported?
+
+[Answer]
+Common image types like JPG, PNG, and GIF are fully supported and display reliably across most email clients. While APNGs are technically supported in some browsers, they are not supported in most versions of Outlook on Windows, which may cause display issues. For maximum compatibility, it’s best to use standard formats like PNG or GIF.
+---
+
+[Question]
+How do I set up an image carousel in a Proze email?
+
+[Answer]
+You can follow this training guide for step-by-step instructions: https://m1.proze.io/site/proze-training/posts/image-carousels
+---
+
+[Question]
+How can I stop small images like icons or emojis from expanding on mobile?
+
+[Answer]
+When you insert an image into your content, Proze automatically adds CSS classes to make it expand to 100% width on mobile — useful for most images, but not ideal for small icons or emojis. To prevent this behavior, click the image, go to the Advanced tab in the image settings, and remove the `mobile` and `image` classes. After saving, the image will retain its original size instead of stretching on mobile devices.
+---
+
+

@@ -5,7 +5,7 @@
   },
   {
     "question": "How do I do A/B testing in Proze?",
-    "answer": "There are two ways to run A/B tests in Proze. The first is Broadcast-Level A/B Testing. During the broadcast setup, turn on 'Run A/B Automated Test' to test your subject line, from name, or template. You can choose a simple 50/50 split or use the A/B Winner option, which tests 10% + 10% and sends the better version to the remaining 80% automatically. The second method is Content-Level A/B Split Testing. In the email builder, you can add two versions of content and mark them as Split A and Split B using the targeting icon. Each version will go to 50% of recipients, and you can compare results in the report after sending."
+    "answer": "There are two ways to run A/B tests in Proze. The first is Broadcast-Level A/B Testing. During the broadcast setup, turn on 'Run A/B Automated Test' to test your subject line, from name, or template. You can choose a simple 50/50 split or use the A/B Winner option, which tests 10% + 10% and sends the better version to the remaining 80% automatically. The second method is Content-Level A/B Split Testing. In the email builder, you can add two versions of content and mark them as Split A and Split B using the targeting icon.  Each version will go to 50% of recipients, and you can compare results in the report after sending."
   },
   {
     "question": "What are the different ways to do A/B testing in Proze?",

@@ -1,0 +1,15 @@
+[
+   {
+  "question": "How do I insert an emoji into my email?",
+  "answer": "The best way to insert an emoji is to use it as an image. Open the image chooser by clicking the gallery upload button. In the chooser, scroll to the 'System Images' section, where you’ll find a library of emojis. Click on any emoji to copy it to your account folder so you can insert it into your email. You can also upload your own emoji image. Once added, use the width and height fields to adjust the size. Finally, click the advanced tab and remove the 'mobile' and 'image' classes so the emoji appears at the correct size in the final email."
+}
+
+   {
+  "question": "Question here?",
+  "answer": "Yes"
+},
+ {
+  "question": "Question here?",
+  "answer": "Yes"
+},
+]

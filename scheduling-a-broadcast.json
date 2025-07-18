@@ -1,0 +1,34 @@
+[
+  {
+    "question": "What is A/B testing?",
+    "answer": "A/B testing is a way to compare two versions of an email to see which one performs better. You might test subject lines, from names, templates, or even different content blocks. The goal is to find out which version gets more opens or clicks so you can improve your results over time."
+  },
+  {
+    "question": "How do I do A/B testing in Proze?",
+    "answer": "There are two ways to run A/B tests in Proze. The first is Broadcast-Level A/B Testing. During the broadcast setup, turn on 'Run A/B Automated Test' to test your subject line, from name, or template. You can choose a simple 50/50 split or use the A/B Winner option, which tests 10% + 10% and sends the better version to the remaining 80% automatically. The second method is Content-Level A/B Split Testing. In the email builder, you can add two versions of content and mark them as Split A and Split B using the targeting icon. Each version will go to 50% of recipients, and you can compare results in the report after sending."
+  },
+  {
+    "question": "What are the different ways to do A/B testing in Proze?",
+    "answer": "You can use two types of A/B testing in Proze. The first is Broadcast-Level A/B Testing. During broadcast setup, enable 'Run A/B Automated Test' to test subject line, from name, or template. You can use either a simple percentage split, like 50/50, or the 'A/B Winner' method, which tests 10% + 10% and sends the better-performing version to the remaining 80% after a delay. The second is Content-Level A/B Split Testing. In the email builder, add two content blocks and assign one as Split A and the other as Split B using the targeting icon. Each version will be sent to 50% of recipients. You can compare performance using the reporting tools after the broadcast is sent."
+  },
+  {
+    "question": "How can I resend an updated email to people who already opened the original?",
+    "answer": "To resend a correction or updated message to recipients who opened a previous email, open the report for that original broadcast. Find the section showing unique openers and click the 'Create Custom List' icon. Name the list something memorable. Then return to the email builder, open the message you want to resend, and update the subject line to indicate it's a correction. When sending, select your newly created list of openers as the recipient group. Continue through the send steps as usual. This ensures only people who opened the original message will receive the updated version."
+  },
+  {
+    "question": "What’s the best way to resend an email to people who didn’t open the first one?",
+    "answer": "Use the 'Resend to Inactives' button in the broadcast tab. It’s best practice to change the subject line when resending, since the original subject may have been ignored or filtered out by inbox algorithms."
+  },
+  {
+    "question": "How do I suppress a one-time list of email addresses from a broadcast?",
+    "answer": "Upload your suppression list as a static list, then place that list into the red exclusion box on the broadcast criteria screen. This method works even for very large suppression files, including lists with over 200,000 addresses."
+  },
+  {
+    "question": "How do I schedule or send an email immediately vs. recurring weekly?",
+    "answer": "To send right away, click 'Start Now' on the final scheduling screen. To send later the same day, select your desired time and click 'Schedule.' Use the recurring options at the bottom only if you want the email to repeat automatically, such as sending every Tuesday."
+  },
+  {
+    "question": "Why did a list I used in a broadcast contain more people than expected, and how can I replicate that?",
+    "answer": "If your broadcast list included more people than expected, it's likely the list was built using a spreadsheet upload rather than the copy-paste method. Uploading a spreadsheet adds new contacts to your list, while pasting only includes contacts already in the system. To replicate this, go to the 'Upload/Update' section, select your file, and run the upload process. This ensures new contacts are added and included in your list."
+  }
+]

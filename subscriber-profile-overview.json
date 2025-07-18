@@ -1,0 +1,30 @@
+[
+  {
+    "question": "Why is my list showing more people than expected, and how can I fix it?",
+    "answer": "If a list contains more people than expected, it’s often due to missing or incorrect filters. For example, if no criteria are applied, the list may include your entire database rather than a specific segment. To correct this: - Make sure relevant filters are applied, such as department, location, or job title. - Double-check that the filters reference the correct values — a typo or unrelated location can result in inaccurate results. - If a list is no longer valid or being used, it may be best to delete it and rebuild it with accurate criteria. - To identify issues, export the list and look for unexpected entries such as placeholder emails, duplicate records, or outdated contacts."
+  },
+  {
+    "question": "Why are some subscribers missing after uploading a list, and how can it be resolved?",
+    "answer": "Missing subscribers usually fall into two groups: those who don’t exist in the system, and those who were unsubscribed. Copy-pasting a list only adds existing users to a list; it doesn’t create new ones. To add new people, use the upload function and map the fields in your spreadsheet. If subscribers were unsubscribed, it may be due to sync rules — for example, with Azure AD. If someone isn’t present in the sync source, they may be auto-unsubscribed. You can handle this by resubscribing and sending immediately before the next sync, adding them to the sync source, or sending from an account that isn’t subject to sync rules."
+  },
+  {
+    "question": "I'm seeing missing contacts after uploading a spreadsheet — how can I troubleshoot?",
+    "answer": "When uploading a spreadsheet of contacts, the system will show a breakdown of how many records were added, updated, unsubscribed, duplicated, or invalid. These differences often explain why your list appears smaller than expected. \n\nTo troubleshoot: \n1) Use a custom list instead of copy-pasting addresses. Assign your uploaded file to a list — this makes it easier to track and verify. \n2) Review the upload messages. You'll see counts of duplicates (already exist), unsubscribed addresses (won’t be included in sends), invalid emails (e.g., malformed addresses or rows with multiple emails in one cell), and nonexistent users (if the tab wasn't uploaded). \n3) Upload each tab separately. If your file has multiple tabs (e.g., internal and external contacts), each one must be uploaded and assigned to a list individually. \n4) Fix errors in the spreadsheet. If some rows contain multiple addresses or formatting issues (like commas in email fields), these need to be corrected and re-uploaded. \n5) Recalculate your totals. After fixing invalid rows and accounting for unsubscribed and duplicate records, your final list count should closely match your source spreadsheet. To streamline things, you can also upload and assign to a list in a single step. Always check the upload status messages — they provide critical insight into what succeeded, what failed, and why."
+  },
+  {
+    "question": "I’m seeing a “Subscriber upload in progress” error. What does it mean?",
+    "answer": "This message means another subscriber upload is already in progress — either a manual user upload or an automated nightly sync. The system only allows one upload at a time. These processes usually complete within 5–10 minutes. Once the current upload finishes, you’ll be able to try again."
+  },
+  {
+    "question": "Who can see or access specific lists in the system?",
+    "answer": "List visibility is managed at the group level. Only users who are explicitly granted access to a list group (such as a facility or team bucket) will be able to view or use the lists inside. If someone needs visibility to monitor or audit list accuracy, they can be added to that group. Otherwise, access is restricted to the assigned users."
+  },
+  {
+    "question": "How can I check which subscribers are missing a value like first name?",
+    "answer": "Go to the Custom List Manager and create a new dynamic list without any filters — this will include all subscribers. Once the list is created, click the subscriber count to open a preview, then click “Export to Excel.”\n\nIn the export settings, make sure to include the specific field you’re investigating (e.g., First Name). After downloading the file, open it in Excel and sort the column A–Z or Z–A to quickly find any empty cells. You can use this same method for any profile field — such as department, location, or title."
+  },
+  {
+    "question": "Why were some people excluded from my spreadsheet upload?",
+    "answer": "You may view information about your upload by going to Subs > Upload Update and click the Messages button next to the relevant upload. This will show whether records already existed, were unsubscribed, or had other issues. If someone was unsubscribed but should still receive mail, you can re-subscribe them under Subscribers, but note: if they are missing from the nightly sync file, they will be unsubscribed again. The long-term fix is getting them correctly added to the sync file."
+  }
+]

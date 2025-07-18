@@ -1,0 +1,26 @@
+[
+   {
+    "question": "Do you have any more information about static lists?",
+    "answer": "Yes. You can visit this training guide for a full walkthrough on how to create and manage static lists: https://m1.proze.io/site/proze-training/posts/create---manage-static-lists"
+  },
+  {
+    "question": "Can I add multiple people at once to a static list?",
+    "answer": "Yes, you can add multiple people to a static list by uploading a spreadsheet or by using the copy and paste feature directly within the list. This allows you to import multiple email addresses in one step."
+  },
+  {
+    "question": "Can I add someone to a list who is not already in the system?",
+    "answer": "No. Only existing subscribers can be added to a static list. If someone isn't in the system yet, you'll need to add them as a subscriber first before they can be included in any list."
+  },
+  {
+    "question": "Can I combine two static lists into one?",
+    "answer": "Yes. Go to the Custom List Manager and select the 'Combine or split other lists' option. This will let you merge two or more static lists into a single new list."
+  },
+  {
+    "question": "Do I need to manually create a custom list for each email, or can I just send to all subscribers?",
+    "answer": "You don’t need to create a custom list for every email. You can choose to send a message to all subscribers by selecting the full list of contacts in the Send tab. Custom lists are only required when you want to target a specific group."
+  },
+  {
+    "question": "Do you have any more information about static lists?",
+    "answer": "Yes. You can visit this training guide for a full walkthrough on how to create and manage static lists: https://m1.proze.io/site/proze-training/posts/create---manage-static-lists"
+  }
+]

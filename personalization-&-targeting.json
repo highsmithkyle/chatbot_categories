@@ -1,0 +1,18 @@
+[
+  {
+    "question": "How can I send a personalized email that starts with \"Dear [person’s name]\"?",
+    "answer": "If the recipient’s first name is already stored in the system, you can personalize the greeting by using: Dear [firstname], The system will replace the placeholder with the correct name during the send.\n\nFor more information on using merge tags, view this video: https://m1.proze.io/site/proze-training/posts/merge-tags"
+  },
+  {
+    "question": "How do I send personalized emails using one-time data from a spreadsheet?",
+    "answer": "Use the Spreadsheet Broadcaster feature to send personalized emails using custom data from a file. Here's how:\n\n1) Prepare your spreadsheet: Column A must be labeled Email (capital \"E\") and contain valid email addresses. All other columns must have single-word headers with no spaces or special characters. Save the file as a tab-delimited .txt file.\n\n2) Use dynamic merge tags in your email content: Use the format [TXN:ColumnName], where ColumnName exactly matches your spreadsheet header (case-sensitive). You can also include these tags in the subject line.\n\n3) Upload the file in the Spreadsheet Broadcaster panel: Select your file and click Continue. A green success message will confirm the upload; red means there's an issue.\n\n4) Check the preview: The Random Preview button will show merged examples using your spreadsheet data. If you're missing data or see a warning that not all rows have processed, wait and try again in a few minutes.\n\n5) Finish setup and schedule like a normal broadcast. Make sure your tags and column names match exactly. If there's a mismatch in capitalization or spacing, the merge will fail."
+  },
+  {
+    "question": "How do I send personalized emails using a spreadsheet upload?",
+    "answer": "Start by creating or duplicating an email template that uses dynamic merge tags (e.g., [TXN:FieldName]). Your spreadsheet must have \"Email\" as the first column (with a capital E, no spaces). All other columns must have single-word headers (no spaces or symbols) that exactly match your merge tags, including capitalization. Save the spreadsheet as a tab-delimited .txt file. In the platform, choose Spreadsheet Broadcaster, upload your file, and wait for confirmation that all rows were processed. Once the merge is confirmed, complete and schedule the send."
+  },
+  {
+    "question": "How do I show a content section to just one group of recipients?",
+    "answer": "To target specific content to a defined group, place that content in its own content block. Use block targeting to assign the block to a particular audience segment (e.g., based on role, location, or team). The email should be divided into separate blocks for each audience if needed. Only the group that meets the criteria will see the targeted block."
+  }
+]

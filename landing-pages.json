@@ -1,0 +1,31 @@
+[
+  {
+    "question": "What is the landing page feature in the app?",
+    "answer": "The landing page feature allows you to create standalone pages that connect directly to your email content. It keeps readers inside your email environment instead of navigating them away to an external site, reducing friction and improving engagement. For further information, you can view a video tutorial here: https://www.tailorednews.com/u/lp/ClientComms/t/c-1x-QIOpsHBtSKoiyE-QP6cbRsq3-QkW8Fk/m/e/Video-Tutorial-Page.htm"
+  },
+  {
+    "question": "How do I create a landing page from an email block?",
+    "answer": "Click 'Add Landing Page' at the top of the editor, or use the shortcut inside the content block you’re working on. The app will duplicate that block into a new landing page which you can then customize."
+  },
+  {
+    "question": "Where can I find the landing pages I’ve created?",
+    "answer": "At the top of the editor, use the dropdown to switch between your email content and the landing pages. You’ll see a yellow highlight around landing pages to distinguish them from standard email blocks."
+  },
+  {
+    "question": "How do I link a button to a landing page?",
+    "answer": "Click the button in your content, on the right panel click the icon to open the chooser.Select the appropriate landing page from the 'Landing Pages' tab. Click 'Choose' to insert the link."
+  },
+  {
+    "question": "Can I let users return to the email from the landing page?",
+    "answer": "Yes. Add a 'View Online' tag to your landing page and customize the return button text, like 'Back to Email'. When clicked, it takes the reader back into the original email content seamlessly."
+  },
+
+  {
+    "question": "How many landing pages can I use in one email?",
+    "answer": "There’s no strict limit. You can link each content block to a different landing page if desired. Each one acts like a mini-extension of your email."
+  },
+  {
+    "question": "What’s the benefit of using landing pages instead of external links?",
+    "answer": "Landing pages reduce friction by keeping readers in your email environment. They don’t open new browser tabs or redirect to external sites, making the experience smoother and more controlled."
+  }
+]

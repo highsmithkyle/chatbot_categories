@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How do I send a test email?",
+    "answer": "To send a test email, go to the Design tab and click 'Send Test'. You will see an area below where you can paste in email addresses or, If you're already marked as a test user, your email will appear pre-checked below. Just click 'Send Test' to send yourself a preview."
+  },
+  {
+    "question": "Can I send test emails to other people?",
+    "answer": "Yes. In the 'Send Test' section, you can manually add additional recipients by typing their email addresses. You can also save them as test users for faster access next time."
+  },
+  {
+    "question": "How do I make someone a permanent test user?",
+    "answer": "After entering their email in the 'Send Test' section, click to set them as a test user. Their address will be saved so you can easily select it in the future without retyping."
+  },
+  {
+    "question": "What should I check before sending a test email?",
+    "answer": "Before sending, double-check your 'From' information, subject line, preview text, and any dynamic fields to ensure the test accurately reflects your message."
+  },
+  {
+    "question": "Where do I find my test email after sending?",
+    "answer": "Test emails are delivered to the inbox of the selected test user(s), just like a live message. Look for it in your email shortly after hitting 'Send Test'."
+  },
+  {
+    "question": "My test email didn’t arrive. What should I do?",
+    "answer": "If your test email didn’t arrive: 1. Verify Test Email Settings: Go to the Test tab and make sure you’ve selected yourself as the test recipient. Double-check that the email address is correct and active. 2. Review Spam or Junk Folders: Sometimes test emails are flagged as spam. Check your Spam or Junk folder. 3. Still not receiving it? Contact our support team via the Live Chat icon."
+  }
+]

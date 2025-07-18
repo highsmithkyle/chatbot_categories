@@ -1,0 +1,15 @@
+[
+  {
+    "question": "How do you create jump links or anchor links?",
+    "answer": "You can find instructions on the Proze training pages here:"
+  },
+
+  {
+    "question": "How do I use the Chooser?",
+    "answer": "You can find instructions on the Proze training pages here:"
+  },
+  {
+    "question": "Can I add strikethrough formatting to a subject line?",
+    "answer": "No, subject lines cannot be formatted. You can include emojis, but effects like bold, italics, or strikethrough are not supported by email clients."
+  }
+]

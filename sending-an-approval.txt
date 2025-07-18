@@ -4,3 +4,4 @@ Can I see if approvals have come through if someone else sent the approval reque
 [Answer]
 Yes — approvals are visible to any author. In Project View, click the gear icon at the top of the navigation bar to open the Edition Settings page. At the bottom of that page, you’ll see the current status of all approvals.
 ---
+

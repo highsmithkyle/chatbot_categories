@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is Canva?",
+    "answer": "Canva is an online design tool that lets you create graphics and presentations. If you have a Canva account, you can use it directly inside the app through the Canva integration."
+  },
+  {
+    "question": "What does the Canva integration allow me to do?",
+    "answer": "The Canva integration lets you browse your Canva library and insert your designs directly into the app without leaving it. You can connect your account, select images or presentations, and reuse or overwrite designs with just a few clicks."
+  },
+  {
+    "question": "How do I use the Canva integration in the app?",
+    "answer": "To use Canva in the app, first connect your Canva account. You can do this from the checklist or by clicking the Canva button when adding an image. Once connected, you’ll be able to see and select designs from your Canva library. Click 'Save and Insert' to add a design to your project. If you update the design later in Canva, just repeat the same steps to overwrite the previous version."
+  },
+  {
+    "question": "How do I connect my Canva account?",
+    "answer": "Click the Canva button when adding an image or use the checklist option to connect. You'll be prompted to authorize your Canva account. Once authorized, your Canva library will be available directly inside the app."
+  },
+  {
+    "question": "How do I insert a Canva image into a content block?",
+    "answer": "Click the Canva button in the content block. Choose your design from the Canva library, then click 'Save and Insert'. The image will be added directly to your project in a folder called 'Canva images'."
+  },
+  {
+    "question": "Why don't my Canva updates appear right away?",
+    "answer": "Canva previews can take 10 to 15 minutes to refresh. If you've updated a design, the thumbnail might still look old, but the correct version will be inserted when you use 'Save and Insert' again."
+  },
+  {
+    "question": "How do I update a Canva image I already used?",
+    "answer": "Edit the design in Canva, then return to the app and click the Canva button again. Select the same design and choose 'Save and Insert'. The app will prompt you to overwrite the old version with the latest one."
+  },
+  {
+    "question": "Can I import specific slides from a Canva presentation?",
+    "answer": "Only the first slide of a Canva presentation is imported. To use a different slide, move it to the first position in Canva, wait a few minutes for syncing, and try again."
+  },
+  {
+    "question": "Can my teammates see my Canva files?",
+    "answer": "No. Each user must authorize their own Canva account. Only your personal Canva designs are visible to you inside the app."
+  },
+  {
+    "question": "How do I disconnect my Canva account?",
+    "answer": "Go to the checklist and click 'Disconnect from Canva'. This will remove your connection. You’ll need to reconnect if you want to access your Canva designs again."
+  }
+]

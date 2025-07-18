@@ -1,0 +1,10 @@
+[
+  {
+    "question": "How do I add a new project folder?",
+    "answer": "Click Create (the pencil icon) on the left, then choose Project View. This will show a list of all available project folders. At the top, you'll see a "Welcome to Projects" message along with an intro video. Just below that section, there's a button labeled "To create a new project folder, click here.""
+  },
+  {
+    "question": "How do I hide or delete a project folder?",
+    "answer": "In Project View, click the three-dot icon next to the folder name and choose Hide Project. This acts as a soft delete — the folder will be hidden but retained in the system. If needed, support can restore the folder for you."
+  }
+]

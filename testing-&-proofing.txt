@@ -1,0 +1,14 @@
+[
+  {
+    "question": "Can I update a link in an email that’s already been sent?",
+    "answer": "Yes. Open the sent broadcast, click on the link, and update the URL in the popup editor. After making the change, click the Clear Cache button in the upper right corner to ensure the update appears correctly for recipients."
+  },
+  {
+    "question": "What’s the difference between openers and total opens in a report?",
+    "answer": "Openers are unique recipients who opened the email at least once. Total opens counts all opens, including repeat opens by the same person. For instance, if one person opens the email three times and another opens it twice, the report will show two openers and five total opens."
+  },
+  {
+    "question": "What is the difference between clickers and total clicks?",
+    "answer": "Clickers represent the number of unique recipients who clicked at least once. Total clicks is the full count of all clicks — including multiple clicks by the same person. For example, if one person clicks three times and another clicks twice, the result is two clickers and five total clicks."
+  }
+]

@@ -1,15 +1,20 @@
 [
-   {
-  "question": "How do I insert an emoji into my email?",
-  "answer": "The best way to insert an emoji is to use it as an image. Open the image chooser by clicking the gallery upload button. In the chooser, scroll to the 'System Images' section, where you’ll find a library of emojis. Click on any emoji to copy it to your account folder so you can insert it into your email. You can also upload your own emoji image. Once added, use the width and height fields to adjust the size. Finally, click the advanced tab and remove the 'mobile' and 'image' classes so the emoji appears at the correct size in the final email."
-}
+  {
+    "question": "How do I insert an emoji into my email?",
+    "answer": "The best way to insert an emoji is to use it as an image. Open the image chooser by clicking the gallery upload button. In the chooser, scroll to the 'System Images' section, where you’ll find a library of emojis. Click on any emoji to copy it to your account folder so you can insert it into your email. You can also upload your own emoji image. Once added, use the width and height fields to adjust the size. Finally, click the advanced tab and remove the 'mobile' and 'image' classes so the emoji appears at the correct size in the final email."
+  },
 
-   {
-  "question": "Question here?",
-  "answer": "Yes"
-},
- {
-  "question": "Question here?",
-  "answer": "Yes"
-},
+  {
+    "question": "How can I add an attachment to an email?",
+    "answer": "Attachments are not supported for security reasons. However, you can upload a file to the Chooser (where images are uploaded) and then link to it from a button within your email to achieve a similar result."
+  },
+  {
+    "question": "There is an extra bullet being added to the end of my list when viewing the preview in Outlook",
+    "answer": "This is a known bug in some versions of Outlook, a fix to the HTML is needed. Please contact us via the chat and an account manager will assist you."
+  },
+
+  {
+    "question": "What does auto-upload unsubscribed mean??",
+    "answer": "Each night, the system runs an auto-sync to determine which subscribers should be added or removed. If an email address does not appear on the nightly sync file, it is automatically marked as unsubscribed. The user’s profile remains in the system, but they will no longer receive messages."
+  }
 ]

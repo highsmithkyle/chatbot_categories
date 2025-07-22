@@ -1,7 +1,6 @@
 [
-   {
-  "question": "How do I send an email with dynamic information?",
-  "answer": "Yes. If you have a tab-delimited file with dynamic content, you can personalize your templates using dynamic tags. This allows you to insert custom fields like names, job titles, or other values into your message. For a full walkthrough, check out this training video: https://m1.proze.io/site/proze-training/posts/dynamic-tags"
-},
-  
+  {
+    "question": "How do I send an email with dynamic information?",
+    "answer": "Yes. If you have a tab-delimited file with dynamic content, you can personalize your templates using dynamic tags. This allows you to insert custom fields like names, job titles, or other values into your message. For a full walkthrough, check out this training video: https://m1.proze.io/site/proze-training/posts/dynamic-tags"
+  }
 ]

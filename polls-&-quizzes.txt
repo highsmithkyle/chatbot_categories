@@ -1,6 +1,0 @@
-[
-  {
-    "question": "Where can I find info on how to embed a quiz or poll in a Proze email?",
-    "answer": "You can find instructions on the Proze training pages here:https://m1.proze.io/site/proze-training/posts/polls---quizzes"
-  }
-]

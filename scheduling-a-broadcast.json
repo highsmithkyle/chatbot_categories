@@ -30,5 +30,9 @@
   {
     "question": "Why did a list I used in a broadcast contain more people than expected, and how can I replicate that?",
     "answer": "If your broadcast list included more people than expected, it's likely the list was built using a spreadsheet upload rather than the copy-paste method. Uploading a spreadsheet adds new contacts to your list, while pasting only includes contacts already in the system. To replicate this, go to the 'Upload/Update' section, select your file, and run the upload process. This ensures new contacts are added and included in your list."
+  },
+  {
+    "question": "Am I included automatically when I send a broadcast?",
+    "answer": "By default you are not automatically included in the broadcast. However, when selecting the broadcast criteria, there is a checkbox to include yourself in the"
   }
 ]

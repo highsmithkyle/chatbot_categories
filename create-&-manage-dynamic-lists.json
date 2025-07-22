@@ -1,0 +1,10 @@
+[
+  {
+    "question": "Can static lists update automatically based on subscriber behavior or profile changes?",
+    "answer": "No. Static lists are fixed and do not update automatically. If you need a list that updates based on user interactions or profile data, you should use a dynamic list instead."
+  },
+  {
+    "question": "Where can I learn more about dynamic lists?",
+    "answer": "You can view a tutorial on dynamic lists at this link: https://m1.proze.io/site/proze-training/posts/create---manage-dynamic-lists"
+  }
+]

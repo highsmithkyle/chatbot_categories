@@ -1,0 +1,46 @@
+[
+  {
+    "question": "Do you have a video on calendar invites?",
+    "answer": "Yes — you can watch a walkthrough video here: https://m1.proze.io/site/proze-training/posts/calendar-invites---rsvps. It shows step-by-step how to add calendar invites and track RSVPs in Proze."
+  },
+  {
+    "question": "How do calendar invites and RSVP tracking work in Proze?",
+    "answer": "Proze lets you embed native calendar invites directly into your emails so recipients can RSVP without downloading attachments or leaving their inbox. Invites appear automatically in their calendar as tentative and are compatible with Outlook, Apple, Yahoo, and Google calendars. You can track RSVPs, make updates, and even cancel events — all directly from the platform. Watch the full walkthrough here: https://m1.proze.io/site/proze-training/posts/calendar-invites---rsvps"
+  },
+  {
+    "question": "What is the calendar invite feature in Proze?",
+    "answer": "The calendar invite feature lets you send native calendar invites directly within your email campaigns. These invites are compatible with Outlook, Apple, Yahoo, and Google calendars, and recipients can RSVP directly from their calendar."
+  },
+  {
+    "question": "How do I add a calendar invite to my email?",
+    "answer": "In the drag-and-drop editor, click the calendar icon inside the content block editor. You can choose an existing calendar event or create a new one by filling in the title, time, location, and RSVP settings. Click 'Attach' to embed it in your email."
+  },
+  {
+    "question": "Do recipients have to download anything to add the event to their calendar?",
+    "answer": "No. The calendar invite is embedded directly in the email. When the email is sent, the invite appears tentatively in the recipient’s calendar, just like a native calendar invitation."
+  },
+  {
+    "question": "Can recipients RSVP to the event?",
+    "answer": "Yes. Recipients can accept, decline, or mark themselves as tentative. They can also include a message with their RSVP if they choose."
+  },
+  {
+    "question": "How do I track RSVP responses?",
+    "answer": "After sending the email, go to the Calendar Invites section or open the specific invite from the editor. You’ll see RSVP totals (Yes, No, Tentative), and each number is clickable to view detailed responses. This data also appears in the broadcast report."
+  },
+  {
+    "question": "Can I cancel or update an event after it's been sent?",
+    "answer": "Yes. Open the calendar invite, change its status to 'Cancelled' or make your edits, then rebroadcast the email. The update will sync with recipients’ calendars automatically."
+  },
+  {
+    "question": "Can I include links or video in the calendar invite?",
+    "answer": "Yes. You can include a meeting link (like Zoom or Teams), event description, and even embed videos, polls, or countdown timers alongside the invite in your email."
+  },
+  {
+    "question": "How do I know if there is a calendar invite attached to a broadcast?",
+    "answer": "Yes. You'll see a calendar icon next to the content block in the editor and in the test send screen, confirming that a calendar invite is attached."
+  },
+  {
+    "question": "Where can I view all the calendar invites I’ve created?",
+    "answer": "You can view all calendar invites in the Calendar Invites menu section. This shows a grid of your events and RSVP summaries. You can also access them from each email’s broadcast report."
+  }
+]

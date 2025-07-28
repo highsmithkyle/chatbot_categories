@@ -27,3 +27,15 @@ When you insert an image into your content, Proze automatically adds CSS classes
 ---
 
 
+ {
+    "question": "How do I apply visual effects to an image in the editor?",
+    "answer": "Click the image, then open the effects panel. You can round corners, recolor to brand colors, apply gradients, or use the multi-effects tool to apply several effects at once. Saved effects can be stored as favorites for reuse."
+  },
+  {
+    "question": "Can I recolor an image to match brand colors?",
+    "answer": "Yes. You can apply branded color overlays to your images. These colors are set in your account preferences and available throughout the application via the color picker."
+  },
+  {
+    "question": "What is the multi-effects image tool?",
+    "answer": "Multi-effects lets you apply several image adjustments at once—like blur, rounded corners, or circle crop—and save them as a reusable favorite using the heart icon."
+  }

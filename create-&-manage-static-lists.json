@@ -1,26 +1,78 @@
 [
-   {
-    "question": "Do you have any more information about static lists?",
+  {
+    "questions": [
+      "Do you have any more information about static lists?",
+      "Where can I learn more about using static lists?",
+      "Is there a guide or tutorial for static lists?",
+      "Can I get detailed help with managing static lists?"
+    ],
     "answer": "Yes. You can visit this training guide for a full walkthrough on how to create and manage static lists: https://m1.proze.io/site/proze-training/posts/create---manage-static-lists"
   },
   {
-    "question": "Can I add multiple people at once to a static list?",
+    "questions": [
+      "Can I add multiple people at once to a static list?",
+      "Is there a way to bulk add people to a static list?",
+      "How do I import a list of email addresses?",
+      "Can I upload multiple contacts to a list in one step?"
+    ],
     "answer": "Yes, you can add multiple people to a static list by uploading a spreadsheet or by using the copy and paste feature directly within the list. This allows you to import multiple email addresses in one step."
   },
   {
-    "question": "Can I add someone to a list who is not already in the system?",
+    "questions": [
+      "Can I add someone to a list who is not already in the system?",
+      "Do users need to be in the system before adding to a static list?",
+      "Can I create a static list entry for a brand-new contact?",
+      "Can I include a person who hasn’t been added to the database yet?"
+    ],
     "answer": "No. Only existing subscribers can be added to a static list. If someone isn't in the system yet, you'll need to add them as a subscriber first before they can be included in any list."
   },
   {
-    "question": "Can I combine two static lists into one?",
+    "questions": ["Can I combine two static lists into one?", "Is there a way to merge multiple static lists?", "How do I join static lists together?", "Can I create a new list from existing ones?"],
     "answer": "Yes. Go to the Custom List Manager and select the 'Combine or split other lists' option. This will let you merge two or more static lists into a single new list."
   },
   {
-    "question": "Do I need to manually create a custom list for each email, or can I just send to all subscribers?",
+    "questions": [
+      "Do I need to manually create a custom list for each email, or can I just send to all subscribers?",
+      "Is it necessary to build a new list every time I send an email?",
+      "Can I send emails without creating a custom list?",
+      "Do I have to use a static list for every campaign?"
+    ],
     "answer": "You don’t need to create a custom list for every email. You can choose to send a message to all subscribers by selecting the full list of contacts in the Send tab. Custom lists are only required when you want to target a specific group."
   },
   {
-    "question": "Do you have any more information about static lists?",
-    "answer": "Yes. You can visit this training guide for a full walkthrough on how to create and manage static lists: https://m1.proze.io/site/proze-training/posts/create---manage-static-lists"
+    "questions": [
+      "How do I remove someone from a static list?",
+      "What’s the process for taking someone off a static list?",
+      "How can I delete a contact from a list?",
+      "Where do I go to remove someone from a static list?"
+    ],
+    "answer": "Go to your static list in the Custom List Manager, use the search function to find the subscriber, and select 'Remove' to take them off the list. The list will update immediately after removal."
+  },
+  {
+    "questions": [
+      "What happens if I try to add someone who isn’t in my database?",
+      "Can I add users to a list if they’re not in the system?",
+      "Why won’t the platform let me add a new contact to my list?",
+      "What if I try to upload someone who isn’t a subscriber?"
+    ],
+    "answer": "Static lists only accept existing subscribers. If you try to add someone who doesn’t already exist in your account, they will not be added to the list. You’ll need to go to the Upload/Update area to add them as a subscriber first."
+  },
+  {
+    "questions": [
+      "Can I use web tracking to populate a static list?",
+      "Is it possible to use behavior tracking to build a list?",
+      "Can I create lists based on site activity?",
+      "Does the system let me add users who visit certain web pages?"
+    ],
+    "answer": "Yes. One of the available options allows you to add subscribers who have clicked through your emails and visited specific pages on your website. This can help you build targeted lists based on behavior. You will need a tracking code for this. Please contact your account manager to help get this set up"
+  },
+  {
+    "questions": [
+      "What are the ways I can populate a static list?",
+      "How can I fill or create a static list?",
+      "What options are available for building static lists?",
+      "Which methods can I use to add contacts to a list?"
+    ],
+    "answer": "You can populate a static list in several ways:\n- Manually type or paste in email addresses\n- Search and select users from your database\n- Upload a spreadsheet of addresses\n- Add all existing subscribers to the list\n- Combine or split other lists"
   }
 ]

@@ -1,15 +1,138 @@
 [
   {
-    "question": "How do you create jump links or anchor links?",
+    "questions": ["How do I get started building an email?", "What’s the first step to create a new email?", "How do I create a broadcast?", "Where do I go to start building an email?"],
+    "answer": "To get started, go to the 'Create' tab in the top menu and select 'New Edition'. You'll be prompted to name your email, and the system will automatically apply the most recently used template. You can choose a different template from your pinned list or create a new one. Once you've selected your template, you'll move into the editor, where you can add content blocks using drag-and-drop components like titles, images, text, and buttons.  After editing, you can preview your email, send a test, and continue to broadcast settings."
+  },
+  {
+    "questions": [
+      "How do you create jump links or anchor links?",
+      "How do I set up anchor links in an email?",
+      "What’s the method for adding jump links?",
+      "Where do I add anchors or internal links?"
+    ],
     "answer": "You can find instructions on the Proze training pages here:"
+  },
+  {
+    "questions": ["How do I use the Chooser?", "Where is the Chooser and how do I use it?", "How do I add content from the Chooser?", "What’s the purpose of the Chooser tool?"],
+    "answer": ""
+  },
+  {
+    "questions": ["Can I format subject lines?", "Can subject lines include special text styles?"],
+    "answer": "No, subject lines cannot be formatted. You can include emojis, but effects like bold, italics, or strikethrough are not supported by email clients."
   },
 
   {
-    "question": "How do I use the Chooser?",
-    "answer": "You can find instructions on the Proze training pages here:"
+    "questions": ["What is the 'chooser' and what is it used for?", "What can I do with the Chooser?", "What’s stored in the Chooser panel?", "What assets are managed through the Chooser?"],
+    "answer": "The chooser is a universal tool found on the left-hand side of the interface. It stores images, files, landing page links, and polls. It’s accessible at all times and is used to retrieve assets while building content."
   },
   {
-    "question": "Can I add strikethrough formatting to a subject line?",
-    "answer": "No, subject lines cannot be formatted. You can include emojis, but effects like bold, italics, or strikethrough are not supported by email clients."
+    "questions": [
+      "What does the main menu provide access to?",
+      "What tools are available in the main menu?",
+      "Where do I find reports, subscribers, and admin tools?",
+      "What’s included in the top navigation menu?"
+    ],
+    "answer": "The main menu, located in the top-left corner, provides access to content creation ('Create'), reporting ('Reports'), subscriber management ('Subs'), and administrative functions such as adding authors and managing templates."
+  },
+  {
+    "questions": [
+      "How do you add a content block to your email?",
+      "What’s the method for inserting a content block?",
+      "How can I drop a component into my email?",
+      "Where do I add new content in the editor?"
+    ],
+    "answer": "Click 'Add Content Block' and drag in system components such as title, image, text, or button. These can be rearranged by dragging the green area of each component. Once built, you can save and close to return to the overview view."
+  },
+  {
+    "questions": ["What is the purpose of naming your content block?", "Why name your content block?", "What are the benefits of labeling a content block?", "Why should I title my blocks?"],
+    "answer": "Naming your content block helps you identify it later in reports, search for it in the system, and reuse or import it into other emails. A descriptive title makes it easier to track and manage your content."
+  },
+  {
+    "questions": ["How do you add an image to a content block?", "How can I insert an image into a block?", "Where do I upload or choose images for content?", "How do I place an image in my email?"],
+    "answer": "Click on the image component and use the chooser to upload an image from your hard drive, select from previously uploaded images, search Google Images, or pick from the system's design images. The selected image will be snapped into the block and mobile optimized."
+  },
+  {
+    "questions": ["Can images be hyperlinked in the editor?", "How do I add a link to an image?", "Can I make an image clickable?", "Can you hyperlink a visual element?"],
+    "answer": "Yes, once an image is added, you can click on it and enter a hyperlink using the designated field in the image settings panel."
+  },
+  {
+    "questions": ["Can AI be used to generate images?", "Does the app support AI-generated visuals?", "How can I create images with AI?", "Can I use artificial intelligence to make images?"],
+    "answer": "Yes, the system offers AI tools that can generate an image based on the content of your block or based on a user-entered prompt. These AI-generated images are added directly to your chooser for use."
+  },
+  {
+    "questions": ["Can content blocks be reused or saved for later?", "Can I save a block design for future use?", "Is it possible to reuse a content block?", "How do I save a custom block layout?"],
+    "answer": "Yes, you can save a content block design—such as title, image, text, and layout—as a reusable favorite or company-wide element that retains your branding and formatting."
+  },
+  {
+    "questions": [
+      "How can you add an external image from the web?",
+      "Can I paste in an image from another website?",
+      "How do I bring in images from the internet?",
+      "What’s the process for inserting external graphics?"
+    ],
+    "answer": "You can copy an external image from a site like SharePoint, paste it directly into the editor (e.g., using Command+V on a Mac), and it will automatically upload, snap into your email, and be stored in the system with a live link."
+  },
+  {
+    "questions": [
+      "How do you hyperlink text in a content block?",
+      "How can I make my text a clickable link?",
+      "What’s the way to link words to a URL?",
+      "How do I insert a hyperlink into email text?"
+    ],
+    "answer": "Highlight the text, click the link icon in the toolbar, paste in your URL, and optionally customize the link color. If no color is assigned, it will default to the browser’s standard blue."
+  },
+  {
+    "questions": [
+      "How can you quickly rearrange content blocks?",
+      "Is there a way to drag blocks faster?",
+      "How do I reorder content in my email?",
+      "What’s the easiest way to shuffle content blocks?"
+    ],
+    "answer": "You can use the toggle button to enter a quick-drag mode that lets you move content blocks around more easily. Clicking the button again expands them back."
+  },
+  {
+    "questions": [
+      "How can you preview your email before sending?",
+      "How do I check the email design before broadcast?",
+      "Can I view my email before it’s live?",
+      "Where is the preview option for drafts?"
+    ],
+    "answer": "Click the preview option to open the email in a new browser tab. All content is tracked and coded, making it ready for testing and broadcast."
+  },
+  {
+    "questions": ["Can others preview your draft email in real time?", "Can coworkers see my email draft live?", "How do I share a real-time preview link?", "Is the preview link collaborative?"],
+    "answer": "Yes. You can copy the preview link and share it with others. Any changes you make in the app will update live for anyone using that link."
+  },
+
+  {
+    "questions": [
+      "What types of components can I use in a content block?",
+      "What kinds of elements are available to insert?",
+      "Which components can I add to a content block?",
+      "What are the component categories in the editor?"
+    ],
+    "answer": "You can choose from four types of components: Snippets (simple single elements like a title or button), Articles (full blocks including title, image, and button), Tables (for displaying structured data), and Dynamic elements (like embedded videos or countdown clocks)."
+  },
+  {
+    "questions": [
+      "How do I replace a placeholder image with my own?",
+      "What’s the process for changing the default image?",
+      "How can I swap in a different image?",
+      "How do I upload and insert my own picture?"
+    ],
+    "answer": "Click on the image, then use the '...' icon to open the chooser. Inside the chooser’s image directory, you can browse your stored images and insert the one you want. This replaces the placeholder with your selected image."
+  },
+  {
+    "questions": [
+      "How do I edit text inside a content block?",
+      "What’s the way to update the text in my email?",
+      "How can I change or format text inside a block?",
+      "Where do I click to start editing text?"
+    ],
+    "answer": "Click into any text element to begin editing. You can use familiar text editing features like copy/paste, bold, italics, underline, and alignment. A formatting bar appears above the text for additional options like lists and justification."
+  },
+  {
+    "questions": ["How do I change the style of a button?", "Where can I customize button design?", "How can I edit the look of a button?", "How do I update button colors and shape?"],
+    "answer": "Click the button, then open the settings panel on the right. Under 'Button Style', you can adjust the background color, border radius, and other visual properties. These options let you align the button with your brand design."
   }
 ]

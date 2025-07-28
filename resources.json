@@ -1,5 +1,5 @@
 [
-   {
+  {
     "question": "What is Zen Mode?",
     "answer": "Zen Mode allows you to open an edition in a clean browser window without the rest of the app interface. You can continue working in the edition while using other parts of the app. The window remains open as long as needed, even across days."
   },
@@ -26,7 +26,5 @@
   {
     "question": "If I upload an Excel list that contains duplicate email addresses, will the system remove them automatically?",
     "answer": "Yes. The system automatically deduplicates email addresses during upload — only one instance of each address will be kept."
-  },
-  
+  }
 ]
-

@@ -34,5 +34,21 @@
   {
     "question": "Am I included automatically when I send a broadcast?",
     "answer": "By default you are not automatically included in the broadcast. However, when selecting the broadcast criteria, there is a checkbox to include yourself in the"
+  },
+  {
+    "question": "How do you choose who to send the email to?",
+    "answer": "You can send to everyone in your database or choose specific lists. These lists can be synced from systems like Active Directory or CRM, or you can create custom combinations using dynamic list tools."
+  },
+  {
+    "question": "What is the system's warning before sending to everyone?",
+    "answer": "The system issues a confirmation warning if you're about to send to all recipients, helping you avoid accidental broad sends."
+  },
+  {
+    "question": "What scheduling options are available for a broadcast?",
+    "answer": "You can send immediately, schedule by date and time in your local timezone, or use advanced options like time zone delivery and predictive send."
+  },
+  {
+    "question": "What is predictive send?",
+    "answer": "Predictive send uses past behavior to determine when each person is most likely to open or click. It distributes emails over time to maximize engagement."
   }
 ]

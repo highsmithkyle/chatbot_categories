@@ -1,46 +1,105 @@
 [
   {
-    "question": "Do you have a video on calendar invites?",
+    "questions": [
+      "Do you have a video on calendar invites?",
+      "Is there a walkthrough video for calendar invites?",
+      "Can I watch a tutorial on how calendar invites work?",
+      "Where can I find a video explaining calendar invites?"
+    ],
     "answer": "Yes — you can watch a walkthrough video here: https://m1.proze.io/site/proze-training/posts/calendar-invites---rsvps. It shows step-by-step how to add calendar invites and track RSVPs in Proze."
   },
   {
-    "question": "How do calendar invites and RSVP tracking work in Proze?",
+    "questions": [
+      "How do calendar invites and RSVP tracking work in Proze?",
+      "How does Proze handle calendar invites and RSVPs?",
+      "What’s the process for sending invites and tracking responses?",
+      "Can you explain how RSVP and calendar features function in Proze?"
+    ],
     "answer": "Proze lets you embed native calendar invites directly into your emails so recipients can RSVP without downloading attachments or leaving their inbox. Invites appear automatically in their calendar as tentative and are compatible with Outlook, Apple, Yahoo, and Google calendars. You can track RSVPs, make updates, and even cancel events — all directly from the platform. Watch the full walkthrough here: https://m1.proze.io/site/proze-training/posts/calendar-invites---rsvps"
   },
   {
-    "question": "What is the calendar invite feature in Proze?",
+    "questions": [
+      "What is the calendar invite feature in Proze?",
+      "What does the calendar invite tool do?",
+      "How does the calendar invite option work in Proze?",
+      "What can I do with the calendar invite feature?"
+    ],
     "answer": "The calendar invite feature lets you send native calendar invites directly within your email campaigns. These invites are compatible with Outlook, Apple, Yahoo, and Google calendars, and recipients can RSVP directly from their calendar."
   },
   {
-    "question": "How do I add a calendar invite to my email?",
+    "questions": [
+      "How do I add a calendar invite to my email?",
+      "What are the steps to insert a calendar invite?",
+      "How can I include a calendar event in my email?",
+      "Where do I go to add a calendar invite in Proze?"
+    ],
     "answer": "In the drag-and-drop editor, click the calendar icon inside the content block editor. You can choose an existing calendar event or create a new one by filling in the title, time, location, and RSVP settings. Click 'Attach' to embed it in your email."
   },
   {
-    "question": "Do recipients have to download anything to add the event to their calendar?",
+    "questions": [
+      "Do recipients have to download anything to add the event to their calendar?",
+      "Is a download required to add calendar invites?",
+      "Do users need to install anything to accept the event?",
+      "Will recipients have to download an attachment for the calendar invite?"
+    ],
     "answer": "No. The calendar invite is embedded directly in the email. When the email is sent, the invite appears tentatively in the recipient’s calendar, just like a native calendar invitation."
   },
   {
-    "question": "Can recipients RSVP to the event?",
+    "questions": [
+      "Can recipients RSVP to the event?",
+      "Is it possible for people to RSVP to my calendar invite?",
+      "Do recipients have the option to respond to the invite?",
+      "Can users accept or decline the event directly?"
+    ],
     "answer": "Yes. Recipients can accept, decline, or mark themselves as tentative. They can also include a message with their RSVP if they choose."
   },
   {
-    "question": "How do I track RSVP responses?",
+    "questions": ["How do I track RSVP responses?", "Where can I see who has RSVP’d?", "How can I view RSVP results after sending?", "What’s the process for monitoring RSVP responses?"],
     "answer": "After sending the email, go to the Calendar Invites section or open the specific invite from the editor. You’ll see RSVP totals (Yes, No, Tentative), and each number is clickable to view detailed responses. This data also appears in the broadcast report."
   },
   {
-    "question": "Can I cancel or update an event after it's been sent?",
+    "questions": [
+      "Can I cancel or update an event after it's been sent?",
+      "Is it possible to make changes to a sent invite?",
+      "Can I update or remove an event after delivery?",
+      "What do I do if I need to cancel or revise a calendar event?"
+    ],
     "answer": "Yes. Open the calendar invite, change its status to 'Cancelled' or make your edits, then rebroadcast the email. The update will sync with recipients’ calendars automatically."
   },
   {
-    "question": "Can I include links or video in the calendar invite?",
+    "questions": [
+      "Can I include links or video in the calendar invite?",
+      "Can I add media or meeting links to an invite?",
+      "Is it possible to embed a Zoom or video in the event?",
+      "Can my calendar invite include extra content like links or videos?"
+    ],
     "answer": "Yes. You can include a meeting link (like Zoom or Teams), event description, and even embed videos, polls, or countdown timers alongside the invite in your email."
   },
   {
-    "question": "How do I know if there is a calendar invite attached to a broadcast?",
+    "questions": [
+      "How do I know if there is a calendar invite attached to a broadcast?",
+      "Is there an indicator that a calendar invite is included?",
+      "How can I confirm that an invite was added to my email?",
+      "Where do I see if a calendar event is embedded?"
+    ],
     "answer": "Yes. You'll see a calendar icon next to the content block in the editor and in the test send screen, confirming that a calendar invite is attached."
   },
   {
-    "question": "Where can I view all the calendar invites I’ve created?",
+    "questions": [
+      "Where can I view all the calendar invites I’ve created?",
+      "How do I access my calendar invite history?",
+      "Where are my past calendar events stored?",
+      "How can I see a list of all my created invites?"
+    ],
     "answer": "You can view all calendar invites in the Calendar Invites menu section. This shows a grid of your events and RSVP summaries. You can also access them from each email’s broadcast report."
+  },
+  {
+    "questions": [
+      "Can I embed event invites and RSVPs in an email?",
+      "Is it possible to include an event invitation in my message?",
+      "How do I send an email with a calendar RSVP option?",
+      "Can I add a calendar event directly into my email campaign?"
+    ],
+    "answer": "Yes. You can include calendar invites directly in the email. Recipients can accept or decline, and their RSVP status is tracked. You can also modify or cancel events from within the app."
   }
 ]

@@ -1,0 +1,22 @@
+[
+  {
+    "questions": [
+      "Why are total opens different between the summary page and the individual report?",
+      "Why don’t total opens match between summary and report views?",
+      "Why is the open count higher in the detailed report than on the summary page?"
+    ],
+    "answer": "The summary page updates once daily for performance reasons, since it pulls data across many broadcasts. Individual broadcast reports, however, show live and up-to-date engagement numbers."
+  },
+  {
+    "questions": [
+      "What broadcast performance metrics are shown in the report?",
+      "What engagement stats are included in broadcast reports?",
+      "Which metrics appear in the performance report for a broadcast?"
+    ],
+    "answer": "Reports show open rate, unique clickers, total opens and clicks, device breakdown (desktop vs. mobile), heat maps, and open time categories (glanced, skimmed, read)."
+  },
+  {
+    "questions": ["Can you drill down into individual recipient behavior?", "Is it possible to view engagement by specific recipients?", "Can I track how each person interacted with the email?"],
+    "answer": "Yes. Reports let you view actions by individual recipients, ranked from most active to least. Drill-downs include full interaction history and per-link engagement."
+  }
+]

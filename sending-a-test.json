@@ -22,5 +22,13 @@
   {
     "question": "My test email didn’t arrive. What should I do?",
     "answer": "If your test email didn’t arrive: 1. Verify Test Email Settings: Go to the Test tab and make sure you’ve selected yourself as the test recipient. Double-check that the email address is correct and active. 2. Review Spam or Junk Folders: Sometimes test emails are flagged as spam. Check your Spam or Junk folder. 3. Still not receiving it? Contact our support team via the Live Chat icon"
+  },
+  {
+    "question": "How do you send a test email?",
+    "answer": "Click 'Send Test', select from your list of test users or paste email addresses manually. You can also verify the sender information at this stage."
+  },
+  {
+    "question": "What happens after you send a test and review your email?",
+    "answer": "Once you're satisfied with the test and all links are working, you proceed to the Broadcast Wizard to finalize the name, audience, and scheduling options."
   }
 ]

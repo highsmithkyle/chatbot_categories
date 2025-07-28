@@ -1,39 +1,101 @@
 [
   {
-    "question": "How do I use the video as a background feature?",
-    "answer": "To use the video as a background feature, start by creating a new email and selecting a template. In the Template Builder Wizard, click 'Proceed' and navigate to the 'Background Video' tab. From there, choose one of the available layout options: Full Email Background Video, Header Background Video, Full-Width Header Background Video, or Rounded Header Background Video. Note that Full Email backgrounds require a minimum video size of 1000×1000 pixels, while Full-Width Header backgrounds require at least 1000×400 pixels. Once you’ve selected your layout, you’ll be taken to the edit screen. Click the blue video icon to either choose from your existing background videos or create a new one. To create a new background, click 'Add Video' to upload a clip or choose from your library, then click 'Insert'. You can trim the clip to a specific segment (for example, the first 4 seconds) and even add multiple clips if needed. On the right-hand panel, you can adjust visual effects like crop position, color overlays, and gradients. If you apply any effects, make sure to click 'Apply Effects' to save them. When you're finished, name your background video and click 'Save'. After it processes, click 'Insert' to add it to your email design."
+    "questions": [
+      "How do I use the video background feature?",
+      "How can I add a video background to my email?",
+      "What are the steps to insert a background video?",
+      "How do I set up a background video in an email?",
+      "How do I replace the email background with a video?",
+      "What’s the process for using the video background layout?",
+      "How do I insert a video as the background in my campaign?",
+      "How can I customize my email with a background video?"
+    ],
+    "answer": "Here's how to add a video background to your email:\n\n1. **Create a new edition.** You'll see tabs for different styles: Internal, External, Multipurpose, and Background Video. Select **Background Video** to begin.\n\n2. **Choose your layout.** You can pick from four layout styles:\n   - Full Email Background Video\n   - Header Background Video\n   - Full-Width Header Background Video\n   - Rounded Header Background Video\n   Select a layout to continue.\n\n3. **Customize your email layout.** This is your editable template. You can add or remove components as needed. To replace the placeholder video, click the blue **Video** button in the upper left.\n\n4. **Choose an existing video** or create a new one. If you've already created a background video, select it from the list. Otherwise, click **Create New Video** to begin.\n\n5. **Click 'Add Video'** to upload a video from your computer or select one from your existing library. Then click **Insert** to load it into your editor.\n\n6. **Set the video segment.** Choose which part of the video to use by entering a start and end time. When you're done, click **Save**.\n\n7. **(Optional) Customize the video.** You can add a color overlay, apply a gradient, or adjust the crop position. If you make any visual changes, click **Apply Effects** to save them.\n\n8. **Name and save your video.** Enter a name, click **Save**, and wait for the system to process it. Once ready, click **Insert** to add it to your email design.\n\n9. **Continue editing your email** as usual—add text, content blocks, buttons, or images as needed.\n\n10. **Still need help?** Watch the full walkthrough here: https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjZ4d2tzb2x2Yjc3cm1sOGFlMngwY3YxMDl5MnVqZzRhcWtxemJtdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l397998l2DT0ogare/giphy.gif"
   },
 
   {
-    "question": "What layout options are available for background videos?",
-    "answer": "You can choose from four layout options: Full Email Background Video, Header Background Video, Full-Width Header Background Video, and Rounded Header Background Video. Each one positions the video differently within your email design."
+    "questions": [
+      "What is the video background feature and how does it work?",
+      "What does the video background feature do?",
+      "Can you explain the video background feature?",
+      "How does the email video background option function?",
+      "What's the function of background video in an email?",
+      "What is a background video in an email template?"
+    ],
+    "answer": "The video background feature lets you embed a short video clip directly into the background or the header of your email designs. The system then processes the video and inserts it seamlessly into your email template. It plays silently and loops automatically in supported email clients."
   },
   {
-    "question": "What size should my background video be?",
-    "answer": "For best results, use a video that is at least 1000 by 1000 pixels for Full Email Background Video layouts. For Full-Width Header Background Video, the minimum recommended size is 1000 by 400 pixels. Using videos smaller than this can affect the quality and alignment of your design."
+    "questions": [
+      "Why would I use a video background in my email?",
+      "What are the benefits of using a video background in email?",
+      "When should I use a background video in a campaign?",
+      "Is using a video background in emails effective?",
+      "What’s the advantage of having a video background?",
+      "Why add a background video to an email design?"
+    ],
+    "answer": "Video backgrounds make your emails more dynamic and eye-catching. They're ideal for grabbing attention at the top of an email. When used properly, video can increase engagement and click-through rates compared to static images."
   },
   {
-    "question": "How do I select or change the background video?",
-    "answer": "When you're on the Edit Template screen, click the blue video icon. You'll see a list of your compatible background videos. You can either choose an existing one from that list or click the blue Create icon to upload a new video."
+    "questions": [
+      "Where can video backgrounds be placed?",
+      "Where in the layout can I put a video background?",
+      "What areas of an email support background video?",
+      "Can I use video as a header or full background?",
+      "What parts of an email can have a video background?",
+      "Which sections of the email layout support background video?"
+    ],
+    "answer": "You can place background videos in several areas of your email layout:\n- As a full email background\n- As a header background\n- In a full-width header block\n- In a rounded header layout\n"
   },
   {
-    "question": "How do I add video clips to my background video?",
-    "answer": "Click the 'Add Video' button to open your video clip library. You can choose a previously uploaded clip or upload a new file from your device. After selecting your clip, click 'Insert' to add it to your background video timeline."
+    "questions": [
+      "What layout options are available for video backgrounds?",
+      "What background video layouts can I choose from?",
+      "Which layout styles support video backgrounds?",
+      "What are the layout types for video backgrounds?",
+      "How can I position the video background in my email?"
+    ],
+    "answer": "There are four layout options:\n- Full Email Background Video\n- Header Background Video\n- Full-Width Header Background Video\n- Rounded Header Background Video\n."
   },
   {
-    "question": "Can I use multiple segments in one background video?",
-    "answer": "Yes, you can. After adding your first clip, you can adjust its duration to use only a portion of it. Then click 'Add' again to include more clips, creating a multi-part background video with multiple segments stitched together."
+    "questions": [
+      "What size should my video be?",
+      "What are the video size requirements?",
+      "What resolution is recommended for background videos?",
+      "What video format or dimensions should I use?",
+      "How large should my background video be?"
+    ],
+    "answer": "For all layouts, it's required to use a high-definition 1080p video. The system will automatically crop the video to fit the layout you select."
   },
   {
-    "question": "What video effects can I apply?",
-    "answer": "You can apply several effects to customize how your background video looks. These include crop position to control video alignment, color overlays with adjustable intensity, and gradient overlays where you can choose the area and direction of the effect."
+    "questions": [
+      "What advanced features are available?",
+      "How can I customize my background video?",
+      "What editing tools are included for background videos?",
+      "Can I trim or edit the video background?",
+      "What options do I have for enhancing the video background?"
+    ],
+    "answer": "You can customize your video background using the following options:\n- Trim the video to specific start/end times\n- Combine multiple clips into one video\n- Apply color overlays and transparency gradients\n- Adjust crop position for framing\n- Name and save reusable video backgrounds for future use"
   },
   {
-    "question": "How do I apply the effects to my video?",
-    "answer": "Once you've selected the crop position, color overlay, or gradient settings you want, make sure to click the 'Apply Effects' button on the right-hand panel. This step confirms and saves your visual changes before you move on."
+    "questions": [
+      "What kind of content works best in a background video?",
+      "What type of video should I use for a background?",
+      "What makes a good video for email background use?",
+      "What content is ideal for video backgrounds?",
+      "What video styles are most effective as backgrounds?"
+    ],
+    "answer": "Short, loopable visuals with minimal text or action work best. Examples include:\n- Product close-ups\n- Scenic footage\n- Abstract motion graphics\n- Logo animations\nAvoid videos with spoken dialogue or complex sound, since background videos play silently and loop continuously."
   },
   {
-    "question": "How do I save and insert the final video?",
-    "answer": "After you're satisfied with your clips and effects, enter a name for your background video in the field provided. Click 'Save' to process the video, and once it's finished, click 'Insert' to add it to your email layout."
+    "question": "Can I use video as a background in my email?",
+    "answer": "Yes. Proze supports looping video backgrounds that wrap around your template. Video can be used as a full background, a shaded header, or a full-width header. These can also behave differently in Outlook using built-in add-ins."
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
   }
 ]

@@ -1,0 +1,83 @@
+[
+  {
+    "questions": [
+      "What is predictive delivery?",
+      "How does predictive delivery work?",
+      "Can you explain predictive delivery?",
+      "What does predictive mode mean when sending emails?"
+    ],
+    "answer": "Predictive delivery is an AI powered, smart scheduling feature that sends your email broadcast over a 24-hour window. The system evaluates recipient behavior data and delivers the email to each person during the hour they are most likely to open and click. This optimizes engagement without requiring manual time zone targeting. For more information, view this walkthrough: https://www.tailorednews.com/u/lp/ClientComms/t/c-1x-QIOpsHBtSKoiyE-QP6cbRsq3-QkW8Fk/m/e/Video-Tutorial-Page.htm"
+  },
+  {
+    "questions": [
+      "Why should I use predictive delivery?",
+      "What are the benefits of predictive delivery?",
+      "Is predictive delivery effective?",
+      "How does predictive delivery improve open rates?"
+    ],
+    "answer": "Predictive delivery typically boosts open and click rates by 10–15%. It uses behavioral data to deliver content when each recipient is most engaged, increasing the chances of your email being seen and acted upon—especially useful for global or diverse audiences."
+  },
+  {
+    "questions": [
+      "How do I use predictive delivery?",
+      "How can I enable predictive delivery?",
+      "Where do I select predictive mode?",
+      "How do I send an email using predictive delivery?"
+    ],
+    "answer": "To use predictive delivery, go to the broadcast scheduling page. Instead of choosing 'Send Now' or setting a manual schedule, select the 'Predictive Delivery' option. The system will automatically distribute the broadcast over a 24-hour period based on recipient engagement patterns."
+  },
+  {
+    "questions": [
+      "Can I customize the predictive delivery window?",
+      "What if I don’t want to wait 24 hours?",
+      "Can I shorten the predictive delivery period?",
+      "How do I override certain delivery hours?"
+    ],
+    "answer": "Yes. You can shorten the predictive delivery period. For example, if you don’t want recipients in later time zones to wait 20+ hours, you can trim the delivery window—e.g., 10 PM to 6 AM—and send those messages immediately. This allows urgent broadcasts to still benefit from optimization."
+  },
+  {
+    "questions": [
+      "How does predictive delivery handle time zones?",
+      "Will emails be sent at the right time in different regions?",
+      "Is predictive delivery time zone-aware?",
+      "How does this feature adapt for a global audience?"
+    ],
+    "answer": "Predictive delivery is fully time zone-aware. It sends emails to each recipient based on their historical engagement data and local time. The system dynamically calculates optimal send times for global audiences, eliminating the need for manual segmentation by region."
+  },
+  {
+    "questions": [
+      "How can I visualize the predictive delivery schedule?",
+      "Can I see how predictive delivery is distributed?",
+      "Does the system show how it schedules predictive sends?",
+      "Where can I view predictive delivery data?"
+    ],
+    "answer": "When you select predictive delivery, a visualization appears showing how the broadcast will be dispersed over the 24-hour period. You can see the send volume by hour, including which recipients will receive it at each time. This helps you adjust delivery windows if needed."
+  },
+  {
+    "questions": [
+      "Can I test predictive delivery against standard delivery?",
+      "How do I run an A/B test with predictive delivery?",
+      "Can I compare predictive delivery with immediate send?",
+      "Is it possible to measure the impact of predictive mode?"
+    ],
+    "answer": "Yes. You can create an A/B test by splitting your list into two groups. Send Group A using 'Send Now' and Group B using 'Predictive Delivery'. After the campaign, compare hourly open and click rates in the broadcast report to measure performance."
+  },
+  {
+    "questions": [
+      "Where can I see performance by hour after using predictive delivery?",
+      "Does the report show hourly open and click rates?",
+      "How do I know if predictive delivery worked?",
+      "What metrics are available after using predictive mode?"
+    ],
+    "answer": "The broadcast report includes detailed performance by hour. You can see when recipients opened and clicked, allowing you to evaluate the effectiveness of predictive delivery versus other methods."
+  },
+  {
+    "questions": [
+      "What kinds of users benefit most from predictive delivery?",
+      "Is predictive mode good for international audiences?",
+      "When is predictive delivery most helpful?",
+      "Who should use predictive scheduling?"
+    ],
+    "answer": "Predictive delivery is ideal for global audiences and anyone with variable email reading habits. It ensures emails land when each person is most likely to engage—whether that’s morning, afternoon, or night in their time zone."
+  }
+]

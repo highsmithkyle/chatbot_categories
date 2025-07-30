@@ -1,30 +1,72 @@
 [
   {
-    "question": "What is Zen Mode?",
+    "questions": [
+      "What is Zen Mode?",
+      "How does Zen Mode work?",
+      "What does Zen Mode do?",
+      "Can I work in Zen Mode and still use other parts of the app?",
+      "Is there a way to open my edition without the full interface?"
+    ],
     "answer": "Zen Mode allows you to open an edition in a clean browser window without the rest of the app interface. You can continue working in the edition while using other parts of the app. The window remains open as long as needed, even across days."
   },
   {
-    "question": "What does auto-upload unsubscribed mean?",
+    "questions": [
+      "What does auto-upload unsubscribed mean?",
+      "How does the unsubscribe auto-upload work?",
+      "What happens if someone is missing from the sync file?",
+      "Why are subscribers marked unsubscribed automatically?",
+      "What triggers automatic unsubscribing in Proze?"
+    ],
     "answer": "Each night, the system runs an auto-sync to determine which subscribers should be added or removed. If an email address does not appear on the nightly sync file, it is automatically marked as unsubscribed. The user’s profile remains in the system, but they will no longer receive messages."
   },
   {
-    "question": "What does the Clear Cache button do?",
+    "questions": [
+      "What does the Clear Cache button do?",
+      "How does clearing the cache affect my broadcast?",
+      "When should I use Clear Cache?",
+      "Why would I clear the cache after editing a broadcast?",
+      "What happens when I click Clear Cache in Proze?"
+    ],
     "answer": "This button clears the cache for the current broadcast. If you make changes to content (like updating a link) after the email is sent, clearing the cache ensures that anyone viewing it sees the updated version."
   },
   {
-    "question": "How does Proze define a “bounce”?",
+    "questions": [
+      "How does Proze define a “bounce”?",
+      "What causes an email to bounce?",
+      "What does it mean if an email bounces?",
+      "Why do some emails fail to deliver?",
+      "How are bounced addresses handled in Proze?"
+    ],
     "answer": "A bounce occurs when an email cannot be delivered to a recipient’s address. This can be due to reasons such as the address not existing, a full inbox, or restrictions from the recipient’s mail server. Bounced addresses are automatically flagged in the system."
   },
   {
-    "question": "Can I attach a document to a Proze email?",
+    "questions": [
+      "Can I attach a document to a Proze email?",
+      "Are attachments supported in Proze?",
+      "How do I send a file with my email?",
+      "Can I link to a document in my Proze email?",
+      "What’s the best way to include a file in an email?"
+    ],
     "answer": "Attachments are not supported for security reasons. However, you can upload a file to the Chooser (the same place where images are uploaded) and link to it from a button in the email to achieve a similar result."
   },
   {
-    "question": "Can I have email replies go to multiple people?",
+    "questions": [
+      "Can I have email replies go to multiple people?",
+      "How do I send replies to more than one address?",
+      "Is it possible to CC replies in Proze?",
+      "How do I configure the Reply To field for multiple recipients?",
+      "Can replies be sent to a group of email addresses?"
+    ],
     "answer": "Yes. You can enter multiple email addresses in the Reply To field. Separate each address with a comma, and replies will be sent to all listed addresses."
   },
   {
-    "question": "If I upload an Excel list that contains duplicate email addresses, will the system remove them automatically?",
+    "questions": [
+      "If I upload an Excel list that contains duplicate email addresses, will the system remove them automatically?",
+      "Will Proze deduplicate email addresses during upload?",
+      "What happens if there are duplicate emails in my import file?",
+      "Does the system clean up repeated email addresses?",
+      "Are duplicates removed when I upload a subscriber list?"
+    ],
     "answer": "Yes. The system automatically deduplicates email addresses during upload — only one instance of each address will be kept."
   }
 ]

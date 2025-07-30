@@ -1,6 +1,11 @@
 [
   {
-    "questions": ["What is Canva?", "Can you explain what Canva is?", "What does Canva do?", "What kind of tool is Canva?"],
+    "questions": [
+      "What is Canva?",
+      "Can you explain what Canva is?",
+      "What does Canva do?",
+      "What kind of tool is Canva?"
+    ],
     "answer": "Canva is an online design tool that lets you create graphics and presentations. If you have a Canva account, you can use it directly inside the app through the Canva integration."
   },
   {
@@ -22,7 +27,12 @@
     "answer": "To use Canva in the app, first connect your Canva account. You can do this from the checklist or by clicking the Canva button when adding an image. Once connected, you’ll be able to see and select designs from your Canva library. Click 'Save and Insert' to add a design to your project. If you update the design later in Canva, just repeat the same steps to overwrite the previous version."
   },
   {
-    "questions": ["How do I connect my Canva account?", "What’s the process to link my Canva account?", "How can I authorize my Canva account in the app?", "Where do I go to connect Canva?"],
+    "questions": [
+      "How do I connect my Canva account?",
+      "What’s the process to link my Canva account?",
+      "How can I authorize my Canva account in the app?",
+      "Where do I go to connect Canva?"
+    ],
     "answer": "Click the Canva button when adding an image or use the checklist option to connect. You'll be prompted to authorize your Canva account. Once authorized, your Canva library will be available directly inside the app."
   },
   {
@@ -62,11 +72,21 @@
     "answer": "Only the first slide of a Canva presentation is imported. To use a different slide, move it to the first position in Canva, wait a few minutes for syncing, and try again."
   },
   {
-    "questions": ["Can my teammates see my Canva files?", "Are Canva designs shared across users?", "Do other users have access to my Canva content?", "Who can view the Canva designs I’ve uploaded?"],
+    "questions": [
+      "Can my teammates see my Canva files?",
+      "Are Canva designs shared across users?",
+      "Do other users have access to my Canva content?",
+      "Who can view the Canva designs I’ve uploaded?"
+    ],
     "answer": "No. Each user must authorize their own Canva account. Only your personal Canva designs are visible to you inside the app."
   },
   {
-    "questions": ["How do I disconnect my Canva account?", "Where can I remove my Canva connection?", "How do I unlink my Canva account from the app?", "What’s the process to disconnect from Canva?"],
+    "questions": [
+      "How do I disconnect my Canva account?",
+      "Where can I remove my Canva connection?",
+      "How do I unlink my Canva account from the app?",
+      "What’s the process to disconnect from Canva?"
+    ],
     "answer": "Go to the checklist and click 'Disconnect from Canva'. This will remove your connection. You’ll need to reconnect if you want to access your Canva designs again."
   }
 ]

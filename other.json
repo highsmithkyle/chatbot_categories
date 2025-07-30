@@ -10,7 +10,7 @@
   },
   {
     "question": "There is an extra bullet being added to the end of my list when viewing the preview in Outlook",
-    "answer": "This is a known bug in some versions of Outlook, a fix to the HTML is needed. Please contact us via the chat and an account manager will assist you."
+    "answer": "This is a known bug in some older versions of Outlook, a fix to the HTML is needed. Please contact us via the chat and an account manager will assist you."
   },
 
   {
@@ -19,6 +19,6 @@
   },
   {
     "question": "Can I recall or unsend an email?",
-    "answer": ""
+    "answer": "Unfortunately with any email service, recalling or unsending an email is not possible. "
   }
 ]

@@ -1,0 +1,101 @@
+[
+  {
+    "questions": [
+      "What is the Hemingway content assistant?",
+      "What can the Hemingway AI tool do?",
+      "How does the Hemingway assistant work?",
+      "What features does Hemingway AI offer?",
+      "What's the purpose of the Hemingway sidebar?"
+    ],
+    "answer": "The Hemingway content assistant is a generative AI tool that enhances your email and landing page content. It provides smart suggestions, rewrites, summaries, translations, and brainstorming features—all accessible directly within the content editing interface. For a full walkthrough, watch the video tutorial here: https://www.tailorednews.com/u/lp/ClientComms/t/c-1x-QIOpsHBtSKoiyE-QP6cbRsq3-QkW8Fk/m/e/Video-Tutorial-Page.htm"
+  },
+  {
+    "questions": [
+      "Where can I find the Hemingway AI assistant?",
+      "Is Hemingway available in the microsite UI?",
+      "Can I use Hemingway in landing pages?",
+      "Where is the Hemingway tool located in the editor?",
+      "How do I access Hemingway content assistant?"
+    ],
+    "answer": "You can access the Hemingway AI assistant directly from within the content editor—whether you're editing emails, landing pages, or microsites. Just hover over a content block and click the blue star icon to bring up the AI tools."
+  },
+  {
+    "questions": [
+      "How does the Proofread feature work?",
+      "What does Proofread do in Hemingway?",
+      "Can Hemingway check my grammar and spelling?",
+      "What does the Proofread tool show?",
+      "Does Hemingway provide word count and read time?"
+    ],
+    "answer": "The Proofread feature analyzes your content and provides a word count, estimated reading time, and grammar/spelling suggestions. It compares your original content with improved versions and allows you to copy or apply edits as needed."
+  },
+  {
+    "questions": [
+      "What does the Condense feature do?",
+      "Can Hemingway shorten my text?",
+      "How can I make my text more concise?",
+      "Is there a way to rewrite my content with fewer words?",
+      "Can I change the length of my writing with Hemingway?"
+    ],
+    "answer": "The Condense feature rewrites your content to fit a specific length. You can shorten or expand text as needed—for example, converting a 50-word block into a 20-word summary while preserving meaning."
+  },
+  {
+    "questions": [
+      "How do I generate subject lines using Hemingway?",
+      "Can Hemingway suggest email subject lines?",
+      "How does the Headline feature work?",
+      "Does Hemingway help with email subject lines?",
+      "Where can I generate subject line ideas?"
+    ],
+    "answer": "The Headline tool reads your content and returns a list of suggested subject lines. These include different tones like urgency, curiosity, or brevity. You can generate more options, edit the source content, or pick short formats (like 5 words or less)."
+  },
+  {
+    "questions": [
+      "What is the Rewrite feature for?",
+      "Can Hemingway change the tone of my text?",
+      "How do I rewrite content using Hemingway?",
+      "Can I rewrite with a persuasive or professional tone?",
+      "What tones can I select in the Rewrite tool?"
+    ],
+    "answer": "The Rewrite feature lets you regenerate your content in different tones. Options include professional, descriptive, narrative, expository, and persuasive. Simply select a tone and Hemingway will revise your text accordingly."
+  },
+  {
+    "questions": [
+      "What is the News Summary feature?",
+      "How does Hemingway summarize long articles?",
+      "Can Hemingway extract key points from a text?",
+      "What does the News Summary tool output?",
+      "Does Hemingway help simplify detailed content?"
+    ],
+    "answer": "News Summary extracts the key messages from long articles. It produces a brief summary, lists key points, explains why the article matters, and may suggest follow-up ideas. It’s ideal for simplifying verbose content."
+  },
+  {
+    "questions": [
+      "How does the Translate feature work?",
+      "Can Hemingway translate my content?",
+      "Does Hemingway keep formatting during translation?",
+      "Will buttons or HTML be affected in translation?",
+      "Can I create multilingual versions with Hemingway?"
+    ],
+    "answer": "The Translate tool converts your content from one language to another (e.g. English to Spanish) while preserving the full HTML structure, links, and formatting. It's designed for fast, high-quality multilingual newsletter creation."
+  },
+  {
+    "questions": [
+      "What is the Brainstorm feature?",
+      "Can I ask Hemingway custom questions?",
+      "How do I use freeform prompts in Hemingway?",
+      "What’s the purpose of the Brainstorm card?",
+      "Can I interact with the AI using my own inputs?"
+    ],
+    "answer": "The Brainstorm feature gives you an open-ended interface to interact with the AI using your own custom prompts. You can ask it to generate summaries, ideas, tips, or content enhancements based on your specific request."
+  },
+  {
+    "questions": [
+      "What's the difference between the block-level and full-page Hemingway icons?",
+      "Can I run AI tools on individual blocks?",
+      "How do I use Hemingway with one block of content?",
+      "What’s the purpose of the smaller AI icon in green sections?"
+    ],
+    "answer": "The smaller Hemingway icon within a green content block runs AI actions only on that specific block. The full-page icon processes the entire page. This lets you fine-tune edits to individual sections without affecting the full document."
+  }
+]

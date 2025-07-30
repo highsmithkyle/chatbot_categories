@@ -1,6 +1,11 @@
 [
   {
-    "questions": ["How do I get started building an email?", "What’s the first step to create a new email?", "How do I create a broadcast?", "Where do I go to start building an email?"],
+    "questions": [
+      "How do I get started building an email?",
+      "What’s the first step to create a new email?",
+      "How do I create a broadcast?",
+      "Where do I go to start building an email?"
+    ],
     "answer": "To get started, go to the 'Create' tab in the top menu and select 'New Edition'. You'll be prompted to name your email, and the system will automatically apply the most recently used template. You can choose a different template from your pinned list or create a new one. Once you've selected your template, you'll move into the editor, where you can add content blocks using drag-and-drop components like titles, images, text, and buttons.  After editing, you can preview your email, send a test, and continue to broadcast settings."
   },
   {
@@ -13,16 +18,20 @@
     "answer": "You can find instructions on the Proze training pages here:"
   },
   {
-    "questions": ["How do I use the Chooser?", "Where is the Chooser and how do I use it?", "How do I add content from the Chooser?", "What’s the purpose of the Chooser tool?"],
-    "answer": ""
-  },
-  {
-    "questions": ["Can I format subject lines?", "Can subject lines include special text styles?"],
+    "questions": [
+      "Can I format subject lines?",
+      "Can subject lines include special text styles?"
+    ],
     "answer": "No, subject lines cannot be formatted. You can include emojis, but effects like bold, italics, or strikethrough are not supported by email clients."
   },
 
   {
-    "questions": ["What is the 'chooser' and what is it used for?", "What can I do with the Chooser?", "What’s stored in the Chooser panel?", "What assets are managed through the Chooser?"],
+    "questions": [
+      "What is the 'chooser' and what is it used for?",
+      "What can I do with the Chooser?",
+      "What’s stored in the Chooser panel?",
+      "What assets are managed through the Chooser?"
+    ],
     "answer": "The chooser is a universal tool found on the left-hand side of the interface. It stores images, files, landing page links, and polls. It’s accessible at all times and is used to retrieve assets while building content."
   },
   {
@@ -44,23 +53,48 @@
     "answer": "Click 'Add Content Block' and drag in system components such as title, image, text, or button. These can be rearranged by dragging the green area of each component. Once built, you can save and close to return to the overview view."
   },
   {
-    "questions": ["What is the purpose of naming your content block?", "Why name your content block?", "What are the benefits of labeling a content block?", "Why should I title my blocks?"],
+    "questions": [
+      "What is the purpose of naming your content block?",
+      "Why name your content block?",
+      "What are the benefits of labeling a content block?",
+      "Why should I title my blocks?"
+    ],
     "answer": "Naming your content block helps you identify it later in reports, search for it in the system, and reuse or import it into other emails. A descriptive title makes it easier to track and manage your content."
   },
   {
-    "questions": ["How do you add an image to a content block?", "How can I insert an image into a block?", "Where do I upload or choose images for content?", "How do I place an image in my email?"],
+    "questions": [
+      "How do you add an image to a content block?",
+      "How can I insert an image into a block?",
+      "Where do I upload or choose images for content?",
+      "How do I place an image in my email?"
+    ],
     "answer": "Click on the image component and use the chooser to upload an image from your hard drive, select from previously uploaded images, search Google Images, or pick from the system's design images. The selected image will be snapped into the block and mobile optimized."
   },
   {
-    "questions": ["Can images be hyperlinked in the editor?", "How do I add a link to an image?", "Can I make an image clickable?", "Can you hyperlink a visual element?"],
+    "questions": [
+      "Can images be hyperlinked in the editor?",
+      "How do I add a link to an image?",
+      "Can I make an image clickable?",
+      "Can you hyperlink a visual element?"
+    ],
     "answer": "Yes, once an image is added, you can click on it and enter a hyperlink using the designated field in the image settings panel."
   },
   {
-    "questions": ["Can AI be used to generate images?", "Does the app support AI-generated visuals?", "How can I create images with AI?", "Can I use artificial intelligence to make images?"],
+    "questions": [
+      "Can AI be used to generate images?",
+      "Does the app support AI-generated visuals?",
+      "How can I create images with AI?",
+      "Can I use artificial intelligence to make images?"
+    ],
     "answer": "Yes, the system offers AI tools that can generate an image based on the content of your block or based on a user-entered prompt. These AI-generated images are added directly to your chooser for use."
   },
   {
-    "questions": ["Can content blocks be reused or saved for later?", "Can I save a block design for future use?", "Is it possible to reuse a content block?", "How do I save a custom block layout?"],
+    "questions": [
+      "Can content blocks be reused or saved for later?",
+      "Can I save a block design for future use?",
+      "Is it possible to reuse a content block?",
+      "How do I save a custom block layout?"
+    ],
     "answer": "Yes, you can save a content block design—such as title, image, text, and layout—as a reusable favorite or company-wide element that retains your branding and formatting."
   },
   {
@@ -100,7 +134,12 @@
     "answer": "Click the preview option to open the email in a new browser tab. All content is tracked and coded, making it ready for testing and broadcast."
   },
   {
-    "questions": ["Can others preview your draft email in real time?", "Can coworkers see my email draft live?", "How do I share a real-time preview link?", "Is the preview link collaborative?"],
+    "questions": [
+      "Can others preview your draft email in real time?",
+      "Can coworkers see my email draft live?",
+      "How do I share a real-time preview link?",
+      "Is the preview link collaborative?"
+    ],
     "answer": "Yes. You can copy the preview link and share it with others. Any changes you make in the app will update live for anyone using that link."
   },
 
@@ -132,7 +171,12 @@
     "answer": "Click into any text element to begin editing. You can use familiar text editing features like copy/paste, bold, italics, underline, and alignment. A formatting bar appears above the text for additional options like lists and justification."
   },
   {
-    "questions": ["How do I change the style of a button?", "Where can I customize button design?", "How can I edit the look of a button?", "How do I update button colors and shape?"],
+    "questions": [
+      "How do I change the style of a button?",
+      "Where can I customize button design?",
+      "How can I edit the look of a button?",
+      "How do I update button colors and shape?"
+    ],
     "answer": "Click the button, then open the settings panel on the right. Under 'Button Style', you can adjust the background color, border radius, and other visual properties. These options let you align the button with your brand design."
   }
 ]

@@ -1,0 +1,83 @@
+[
+  {
+    "questions": [
+      "What is the AI image generator?",
+      "What does the AI image generation tool do?",
+      "Can I generate images with AI in the platform?",
+      "What is the purpose of the built-in AI image generator?"
+    ],
+    "answer": "The AI image generator is a built-in tool that lets you create unlimited license-free images directly from your content or a custom prompt. It's fully integrated into the editor, so you can generate, save, and insert visuals into your content with just a few clicks. For more information, view this walkthrough: https://www.tailorednews.com/u/lp/ClientComms/t/c-1x-QIOpsHBtSKoiyE-QP6cbRsq3-QkW8Fk/m/e/Video-Tutorial-Page.htm"
+  },
+  {
+    "questions": [
+      "How do I use the AI image generator?",
+      "Where is the image generation tool located?",
+      "How do I generate an image for my content?",
+      "How do I access the AI image feature?"
+    ],
+    "answer": "To use the AI image generator, drag in an image component or click on an existing image block. Then click the **Generate** button. You'll be prompted to choose an image orientation (horizontal, square, or vertical), and either write your own prompt or let the system read your content to build one for you."
+  },
+  {
+    "questions": [
+      "Can the AI tool generate a prompt for me?",
+      "What does 'generate a prompt from content' mean?",
+      "How do I auto-generate a prompt using my article?",
+      "Can AI read my content and build a prompt automatically?"
+    ],
+    "answer": "Yes. The AI can analyze your content and write a detailed image generation prompt for you. Just click the option to have it read your article, and it will create a rich descriptive prompt that is then passed to the image generator to create a matching visual."
+  },
+  {
+    "questions": [
+      "Can I edit the prompt before generating?",
+      "How do I customize the prompt?",
+      "Can I write my own AI image prompt?",
+      "What if I want to control exactly what the image shows?"
+    ],
+    "answer": "You can fully edit or replace the prompt. You can choose to edit the system-generated version or write your own from scratch. Just enter your custom text—whether it’s a style, subject, or concept—and generate the image. The tool accepts both simple and detailed prompts."
+  },
+  {
+    "questions": [
+      "Can I regenerate an image I don't like?",
+      "What if the generated image doesn’t look right?",
+      "How do I create a new version of the same image?",
+      "Can I refine or retry an AI image?"
+    ],
+    "answer": "If you don't like the first result, just click **Generate** again. You can tweak the prompt, remove unwanted details, or rerun the same prompt to get a new variation. The system creates unique results with every generation."
+  },
+  {
+    "questions": [
+      "Can I save AI-generated images?",
+      "How do I insert a generated image into my content?",
+      "What does 'Save' vs 'Save and Insert' mean?",
+      "Where do my AI images get stored?"
+    ],
+    "answer": "After generating an image, you can either click **Save** to store it in your image library, or **Save and Insert** to both store it and insert it into your current content block. You can reuse saved images later across different articles."
+  },
+  {
+    "questions": [
+      "Does the AI use my full article to generate images?",
+      "Can I control which part of my content the AI uses?",
+      "How do I edit the content used for generating the prompt?",
+      "What is the 'Edit Source' feature in image generation?"
+    ],
+    "answer": "By default, the tool extracts your entire article to build a prompt. But you can click **Edit Source** to manually choose which part of the content is used. This lets you fine-tune the context and control what the AI uses to create the image."
+  },
+  {
+    "questions": [
+      "Are there limits to how many AI images I can create?",
+      "Is there a usage cap on image generation?",
+      "Can I create unlimited AI images?",
+      "Do I need to pay extra to use the AI image tool?"
+    ],
+    "answer": "You can generate as many images as you'd like using the AI image tool. All images are license-free, and there are no limits on usage, generation frequency, or storage inside your account."
+  },
+  {
+    "questions": [
+      "What makes a good AI image prompt?",
+      "How do I write better prompts for image generation?",
+      "What should I include in my AI prompt for best results?",
+      "Any tips for writing effective AI prompts?"
+    ],
+    "answer": "The more specific your prompt, the better your results. Include subject, mood, setting, camera style, lighting, and artistic references if possible. For example: \"A 4K photo of a Labradoodle tilting its head in a sunlit kitchen\" will generate much better results than simply \"dog photo.\""
+  }
+]

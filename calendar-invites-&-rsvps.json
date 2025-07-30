@@ -1,30 +1,12 @@
 [
   {
     "questions": [
-      "Do you have a video on calendar invites?",
-      "Is there a walkthrough video for calendar invites?",
-      "Can I watch a tutorial on how calendar invites work?",
-      "Where can I find a video explaining calendar invites?"
-    ],
-    "answer": "Yes — you can watch a walkthrough video here: https://m1.proze.io/site/proze-training/posts/calendar-invites---rsvps. It shows step-by-step how to add calendar invites and track RSVPs in Proze."
-  },
-  {
-    "questions": [
       "How do calendar invites and RSVP tracking work in Proze?",
-      "How does Proze handle calendar invites and RSVPs?",
+      "What is the calendar invite feature in Proze?",
       "What’s the process for sending invites and tracking responses?",
       "Can you explain how RSVP and calendar features function in Proze?"
     ],
     "answer": "Proze lets you embed native calendar invites directly into your emails so recipients can RSVP without downloading attachments or leaving their inbox. Invites appear automatically in their calendar as tentative and are compatible with Outlook, Apple, Yahoo, and Google calendars. You can track RSVPs, make updates, and even cancel events — all directly from the platform. Watch the full walkthrough here: https://m1.proze.io/site/proze-training/posts/calendar-invites---rsvps"
-  },
-  {
-    "questions": [
-      "What is the calendar invite feature in Proze?",
-      "What does the calendar invite tool do?",
-      "How does the calendar invite option work in Proze?",
-      "What can I do with the calendar invite feature?"
-    ],
-    "answer": "The calendar invite feature lets you send native calendar invites directly within your email campaigns. These invites are compatible with Outlook, Apple, Yahoo, and Google calendars, and recipients can RSVP directly from their calendar."
   },
   {
     "questions": [
@@ -54,7 +36,12 @@
     "answer": "Yes. Recipients can accept, decline, or mark themselves as tentative. They can also include a message with their RSVP if they choose."
   },
   {
-    "questions": ["How do I track RSVP responses?", "Where can I see who has RSVP’d?", "How can I view RSVP results after sending?", "What’s the process for monitoring RSVP responses?"],
+    "questions": [
+      "How do I track RSVP responses?",
+      "Where can I see who has RSVP’d?",
+      "How can I view RSVP results after sending?",
+      "What’s the process for monitoring RSVP responses?"
+    ],
     "answer": "After sending the email, go to the Calendar Invites section or open the specific invite from the editor. You’ll see RSVP totals (Yes, No, Tentative), and each number is clickable to view detailed responses. This data also appears in the broadcast report."
   },
   {

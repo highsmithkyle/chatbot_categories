@@ -1,31 +1,65 @@
 [
   {
-    "question": "What is the landing page feature in the app?",
-    "answer": "The landing page feature allows you to create standalone pages that connect directly to your email content. It keeps readers inside your email environment instead of navigating them away to an external site, reducing friction and improving engagement. For further information, you can view a video tutorial here: https://www.tailorednews.com/u/lp/ClientComms/t/c-1x-QIOpsHBtSKoiyE-QP6cbRsq3-QkW8Fk/m/e/Video-Tutorial-Page.htm"
+    "questions": [
+      "What is the landing page feature in the app?",
+      "What does the landing page tool do?",
+      "Can I build standalone pages linked to my email?",
+      "How do landing pages work in this platform?"
+    ],
+    "answer": "Landing pages allows you to create standalone pages that connect directly to your email content. It keeps readers inside your email environment instead of navigating them away to an external site, reducing friction and improving engagement. For further information, you can view a video tutorial here: https://www.tailorednews.com/u/lp/ClientComms/t/c-1x-QIOpsHBtSKoiyE-QP6cbRsq3-QkW8Fk/m/e/Video-Tutorial-Page.htm"
   },
   {
-    "question": "How do I create a landing page from an email block?",
-    "answer": "Click 'Add Landing Page' at the top of the editor, or use the shortcut inside the content block you’re working on. The app will duplicate that block into a new landing page which you can then customize."
+    "questions": [
+      "How do I create a landing page?",
+      "Where do I click to generate a landing page?",
+      "How can I add a landing page from the design tab?",
+      "Is there a way to turn a content block into a landing page?"
+    ],
+    "answer": "There are two ways to create a landing page in the app:\n\n1. **Create a new landing page**: Click the **Design** tab to view all of your content blocks. Next to **Add Content Block**, click the dropdown arrow and select **Add Landing Page**. This will open a popup where you can choose a layout or template for your new page.\n\n2. **Convert an existing block**: Click into the content block you want to duplicate. At the top menu bar, click **Create Landing Page**. This copies the block into a standalone landing page, which you can customize as needed."
   },
   {
-    "question": "Where can I find the landing pages I’ve created?",
+    "questions": [
+      "Where can I find the landing pages I’ve created?",
+      "How do I access the landing pages I made?",
+      "Where do landing pages appear in the interface?",
+      "How can I toggle between email content and landing pages?"
+    ],
     "answer": "At the top of the editor, use the dropdown to switch between your email content and the landing pages. You’ll see a yellow highlight around landing pages to distinguish them from standard email blocks."
   },
   {
-    "question": "How do I link a button to a landing page?",
+    "questions": [
+      "How do I link a button to a landing page?",
+      "How can I connect a landing page to a button?",
+      "What steps do I follow to attach a landing page to a button?",
+      "How do I assign a landing page to a button in my email?"
+    ],
     "answer": "Click the button in your content, on the right panel click the icon to open the chooser.Select the appropriate landing page from the 'Landing Pages' tab. Click 'Choose' to insert the link."
   },
   {
-    "question": "Can I let users return to the email from the landing page?",
+    "questions": [
+      "Can I let users return to the email from the landing page?",
+      "Is it possible to go back to the email from a landing page?",
+      "Can I add a return-to-email option on landing pages?",
+      "How do I send readers back to the email from a landing page?"
+    ],
     "answer": "Yes. Add a 'View Online' tag to your landing page and customize the return button text, like 'Back to Email'. When clicked, it takes the reader back into the original email content seamlessly."
   },
-
   {
-    "question": "How many landing pages can I use in one email?",
+    "questions": [
+      "How many landing pages can I use in one email?",
+      "Is there a limit to how many landing pages I can add?",
+      "Can I use multiple landing pages per campaign?",
+      "How many separate landing pages can be linked from one message?"
+    ],
     "answer": "There’s no strict limit. You can link each content block to a different landing page if desired. Each one acts like a mini-extension of your email."
   },
   {
-    "question": "What’s the benefit of using landing pages instead of external links?",
+    "questions": [
+      "What’s the benefit of using landing pages instead of external links?",
+      "Why use landing pages over external websites?",
+      "How do landing pages improve the email experience?",
+      "What are the advantages of in-app landing pages?"
+    ],
     "answer": "Landing pages reduce friction by keeping readers in your email environment. They don’t open new browser tabs or redirect to external sites, making the experience smoother and more controlled."
   }
 ]
